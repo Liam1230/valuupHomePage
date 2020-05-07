@@ -1,0 +1,18 @@
+// Variables
+@import 'variables';
+
+// common
+@import 'common';
+
+@import 'test';
+
+@import 'layout';
+
+@font-face {
+	font-family: 'mainFont';
+  	src: url('/fonts/Kosugi-Regular.ttf') format("truetype");
+}
+@font-face {
+	font-family: 'popFont';
+  	src: url('/fonts/pop.ttf') format("truetype");
+}
